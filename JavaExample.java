@@ -1,4 +1,4 @@
-public class JavaExample {
+class JavaExample {
 
     public static void main(String[] args) {
         double[] arr = {19, 12.89, 16.5, 200, 13.7};
@@ -19,5 +19,5 @@ public class JavaExample {
          * after decimal point.
          */
         System.out.format("The average is: %.3f", average);
-    }hi     .,.,.
+    }//hi     .,.,.
 }
